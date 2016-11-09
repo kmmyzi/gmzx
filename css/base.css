@@ -1,0 +1,20 @@
+body,h1,h2,h3,h4,h5,h6,ul,li,ol,form,p,pre,input,textarea,dl,dt,dd{
+	padding: 0;
+	margin: 0;
+}
+ul,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+img{
+	border:0;
+}
+body{
+	font-family: "微软雅黑",sans-serif;
+	font-size: 12px;
+}
+div{
+	display: block;
+}
